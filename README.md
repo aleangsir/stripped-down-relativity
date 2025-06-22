@@ -1,1 +1,1 @@
-# pure-relativity
+# stripprd-down-relativity
